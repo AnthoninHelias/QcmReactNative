@@ -1,0 +1,7 @@
+
+Ltypescript:S1128"$Remove this unused import of 'Link'.(Õ«úüÿÿÿÿ8¼˜¯¢Ï2
+Ftypescript:S3863"#'expo-router' import is duplicated.(ş…À8½˜¯¢Ï2
+Ltypescript:S3863"$'react-native' import is duplicated.(œ‘Éÿÿÿÿÿÿ8½˜¯¢Ï2
+Gtypescript:S3863"$'react-native' import is duplicated.( Ü·‘8½˜¯¢Ï2
+\typescript:S1854"4Remove this useless assignment to variable "number".(ØÍ­¬ıÿÿÿÿ8½˜¯¢Ï2
+dtypescript:S1854"<Remove this useless assignment to variable "onChangeNumber".(ØÍ­¬ıÿÿÿÿ8½˜¯¢Ï2

@@ -1,8 +1,8 @@
 {
   "expo": {
     "scheme": "Qcm",
-    "name": "QcmReactNative",
-    "slug": "QcmReactNative",
+    "name": "FrontEND",
+    "slug": "FrontEND",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
